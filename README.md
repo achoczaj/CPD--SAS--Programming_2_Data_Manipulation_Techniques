@@ -65,4 +65,4 @@ Learning More
 
 ---
 ### Link to course:
-https://support.sas.com/edu/schedules.html?ctry=us&crs=PROG2#s1=1
+https://support.sas.com/edu/schedules.html?ctry=us&crs=PROG2
